@@ -2,7 +2,10 @@
  
 AIM:  
   To develop a program to obtain bus admittance matrix for the given power 
-system network by inspection method. 
+system network by inspection method.
+
+SOFTWARE REQUIRED:
+            MATLAB Software
   
 THEORY: 
 
