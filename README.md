@@ -44,7 +44,7 @@ Y
 
 PROGRAM: 
 Formation of Y-bus using Inspection method: 
-
+```
 clear;
 clc; 
 n=input('no of buses');
@@ -72,5 +72,5 @@ end
 end 
 end 
 ybus
-
+```
 RESULT:
