@@ -1,15 +1,14 @@
 # EX.-1-FORMATION-OF-Y-BUS-MATRIX-BY-INSPECTION-METHOD-
  
 AIM:  
-  To develop a program to obtain bus admittance matrix for the given power 
+To develop a program to obtain bus admittance matrix for the given power 
 system network by inspection method.
 
 SOFTWARE REQUIRED:
-            MATLAB Software
+MATLAB Software
   
 THEORY: 
-
-  Bus admittance matrix is often used in power system studies. In most of the 
+Bus admittance matrix is often used in power system studies. In most of the 
 power system studies, it is necessary to form [Y-bus] matrix of the system by considering 
 certain power system parameters depending upon the type of analysis. 
    
