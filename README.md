@@ -1,4 +1,4 @@
-# EX.-1-FORMATION-OF-Y-BUS-MATRIX-BY-INSPECTION-METHOD-
+https://github.com/nrarjun2005/EX.-1-FORMATION-OF-Y-BUS-MATRIX-BY-INSPECTION-METHOD-/tree/main# EX.-1-FORMATION-OF-Y-BUS-MATRIX-BY-INSPECTION-METHOD-
  
 AIM:  
 To develop a program to obtain bus admittance matrix for the given power 
